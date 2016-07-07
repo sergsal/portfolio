@@ -65,23 +65,20 @@ section {
 @media only screen and (max-width: 768px) {
 	.content-wrapper {
 		background-color: blue;
+		width: 80%;
 	}
 	.connect, .about-me {
 		width: 100%;
 	}
-	.about-me {
-		border-bottom: 1px, black, solid;
-	}
+
 }
 
 @media only screen and (max-width: 640px) {
 	.content-wrapper {
 		background-color: green;
+		width: 80%;
 	}
 	.connect, .about-me, .about-me img {
 		width: 100%;
-	}
-	.about-me {
-		border-bottom: 1px, black, solid;
 	}
 }
