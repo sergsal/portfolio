@@ -58,8 +58,7 @@
    ========================================================================== */
 @media (max-width: 767px) {
   .navbar-default, .navbar-nav, .active > li > a {
-	background-color: #000;
-	border-width: 1px 0px;}
+	background-color: #000;}
 }
 
 body {
